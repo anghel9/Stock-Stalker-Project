@@ -1,0 +1,3 @@
+Use this pip install to obtain all the necessary libraries
+pip install requests beautifulsoup4 yfinance pandas nltk vaderSentiment scikit-learn tensorflow matplotlib seaborn numpy scipy
+pip install alpha_vantage tweepy praw
